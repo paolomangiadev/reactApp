@@ -3,3 +3,4 @@
 2. [mrclan](https://github.com/mrclan)
 3. [mblascoe](https://github.com/mblascoe)
 4. [pixidust724](https://github.com/pixidust724)
+4. [paolomangiadev](https://github.com/paolomangiadev)
